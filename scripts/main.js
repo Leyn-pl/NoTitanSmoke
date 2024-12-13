@@ -1,0 +1,1 @@
+Blocks.titan.ammoTypes.get(Items.thorium).hitEffect = Fx.titanExplosion;

@@ -1,0 +1,8 @@
+name: "notitansmoke"
+displayName: "No Titan Smoke"
+author: "LEYN1092"
+description: "Removes Titan's smoke, leaving only clean explosion effect."
+subtitle: "Removes Titan's smoke."
+version: "1.0"
+minGameVersion: 145
+hidden: true
